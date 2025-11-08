@@ -1,0 +1,9 @@
+{
+  "titulo": "Sobre o The Article",
+  "paragrafos": [
+    "O The Article nasceu como um projeto acadêmico e experimental voltado à prática do desenvolvimento, ele permite qualquer um editar criar artigos, assim não depende de uma só pessoa publicar. Foi idealizado por estudantes de programação interessados em explorar a criação de aplicações web completas.",
+    "Seu objetivo é demonstrar como um site de artigos e notícias pode ser construído com um back-end simples em Node.js e um front-end dinâmico em Vue.js.",
+    "Além de servir como um exemplo técnico, o projeto busca incentivar o aprendizado de boas práticas de código, organização de rotas e consumo de APIs.",
+    "Para simplificar o desenvolvimento e priorizar a lógica da aplicação, o sistema utiliza um arquivo JSON como forma de persistência dos dados, substituindo o uso de um banco de dados tradicional. Essa abordagem permite simular operações CRUD de forma eficiente e didática."
+  ]
+}

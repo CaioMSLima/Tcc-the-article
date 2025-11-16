@@ -21,10 +21,12 @@ router.put('/:id', controller.atualizarArtigo);
 // Deletar artigo
 router.delete('/:id', controller.deletarArtigo);
 
-//like no artigo
-router.put('/:id/like', controller.curtirArtigo);
+//like no artigo 
+router.post('/:id/curtir', controller.curtirArtigo);
+router.post('/:id/remover', controller.removerLike);
 
 //comertar artigo
 router.post('/:id/comentarios', controller.adicionarComentario);
+router.delete('/:id/comentarios', controller.deletarComentario);
 
 module.exports = router;

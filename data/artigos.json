@@ -1,65 +1,6 @@
 [
   {
     "id": 1,
-    "titulo": "O poder dos fungos",
-    "conteudo": [
-      "Os fungos são organismos extraordinários, muitas vezes subestimados, mas que desempenham um papel fundamental na manutenção da vida na Terra. Eles não são nem plantas nem animais — pertencem ao seu próprio reino, repleto de espécies capazes de se adaptar aos ambientes mais inóspitos do planeta.",
-      "Esses seres são responsáveis pela decomposição de matéria orgânica, transformando restos de plantas e animais em nutrientes que retornam ao solo. Sem eles, florestas e ecossistemas inteiros entrariam em colapso sob o acúmulo de matéria morta.",
-      "Mas o poder dos fungos vai muito além da reciclagem natural. Na medicina, eles deram origem a alguns dos maiores avanços da humanidade, como a penicilina — o primeiro antibiótico —, descoberta a partir do mofo Penicillium. Hoje, estudos buscam desenvolver fungos geneticamente modificados para combater bactérias resistentes e até doenças crônicas.",
-      "Na biotecnologia, algumas espécies vêm sendo usadas para produzir biocombustíveis e materiais sustentáveis. Há fungos que digerem plástico e até petróleo, mostrando um potencial gigantesco no combate à poluição e à crise ambiental.",
-      "No entanto, nem todos os fungos são benéficos. Alguns podem causar infecções graves e produzir toxinas perigosas, lembrando que o poder da natureza também exige respeito e cuidado. O equilíbrio entre o uso e o controle dessas espécies é essencial para evitar desequilíbrios ecológicos.",
-      "Os fungos continuam sendo um campo de pesquisa vasto e misterioso. Para alguns cientistas, entender suas redes subterrâneas e sua comunicação com as plantas pode ser a chave para o futuro da agricultura e da restauração ambiental.",
-      "Em um mundo cada vez mais afetado por mudanças climáticas e desastres ecológicos, talvez os fungos sejam — de forma silenciosa e invisível — um dos maiores aliados da humanidade."
-    ],
-    "views": 60,
-    "likes": 93,
-    "categoria": "ciência",
-    "dataPublicacao": "2025-9-20T14:01:43.123Z",
-    "comentarios": [
-      {
-        "autor": "Visitante",
-        "texto": "boa tarde",
-        "data": "02/11/2025 14:19:31"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "agora vai",
-        "data": "02/11/2025 14:19:45"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "boa tarde",
-        "data": "02/11/2025 14:24:49"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "boa tarde",
-        "data": "02/11/2025 18:34:34"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "boa noite",
-        "data": "05/11/2025 21:07:30"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "teste",
-        "data": "05/11/2025 21:25:17"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "teste",
-        "data": "05/11/2025 21:25:24"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "adxkaoldkasa",
-        "data": "05/11/2025 21:29:40"
-      }
-    ]
-  },
-  {
-    "id": 2,
     "titulo": "Novo implante pode permitir que cegos leiam novamente",
     "conteudo": [
       "Na medicina, há algumas coisas que muitos de nós achamos que não podem ser curadas.",
@@ -73,129 +14,27 @@
       "O implante de retina vem com um pequeno computador na cintura, bem como um par de óculos especiais que escaneiam o que o usuário quer ler e então projetam luz infravermelha próxima ao implante.",
       "No entanto, não é a mesma coisa que a visão normal. E os pesquisadores disseram que os pacientes precisaram de muito treinamento para ajudar a melhorar a visão."
     ],
-    "categoria": "ciência",
-    "views": 14,
-    "dataPublicacao": "2025-10-25T16:01:43.123Z",
+    "categoria": "Tecnologia",
+    "views": 41,
+    "dataPublicacao": "12/11/2025",
+    "likes": 8,
     "comentarios": [
       {
+        "id": 2,
         "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:48"
+        "texto": "ggggggggggggg",
+        "data": "15/11/2025 18:27:38"
       },
       {
+        "id": 3,
         "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:50"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:51"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:51"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:51"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:52"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:53"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:55"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:55"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:55"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:55"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:56"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:58"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "primeiroo",
-        "data": "05/11/2025 21:07:58"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "adadaprimeiroo",
-        "data": "05/11/2025 21:08:00"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "adadaprimeiroo",
-        "data": "05/11/2025 21:08:00"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "adadaprimeiroo",
-        "data": "05/11/2025 21:08:00"
-      },
-      {
-        "autor": "Visitante",
-        "texto": "ad",
-        "data": "05/11/2025 21:08:15"
+        "texto": "hhhhhhhhhhh",
+        "data": "15/11/2025"
       }
     ]
   },
   {
-    "id": 3,
+    "id": 2,
     "titulo": "Magias proibidas e seus riscos",
     "conteudo": [
       "Desde os primórdios da humanidade, a busca por poder além do alcance natural fascinou e corrompeu mentes curiosas. A chamada magia proibida é o reflexo dessa ambição — um conjunto de práticas arcanas que desafiam as leis da natureza e interferem diretamente nas forças que sustentam o equilíbrio do mundo.",
@@ -206,8 +45,89 @@
       "Apesar dos riscos, a magia proibida continua a atrair os ambiciosos e desesperados — aqueles que preferem desafiar o destino a aceitar suas limitações. Contudo, cada feitiço lançado em desobediência às leis do mundo é uma aposta perigosa, cujo preço final quase sempre é a alma.",
       "Em última análise, a verdadeira sabedoria não está em dominar o proibido, mas em compreender por que ele foi proibido. Pois o poder que nasce das sombras, cedo ou tarde, exige um sacrifício que ninguém está realmente preparado para pagar."
     ],
-    "categoria": "Cultura pop",
-    "views": 10,
-    "dataPublicacao": "2025-11-20T14:01:43.123Z"
+    "categoria": "Cultura",
+    "views": 196,
+    "dataPublicacao": "06/11/2025",
+    "likes": 117,
+    "comentarios": []
+  },
+  {
+    "id": 3,
+    "titulo": "O poder dos fungos",
+    "conteudo": [
+      "Os fungos são organismos extraordinários, muitas vezes subestimados, mas que desempenham um papel fundamental na manutenção da vida na Terra. Eles não são nem plantas nem animais — pertencem ao seu próprio reino, repleto de espécies capazes de se adaptar aos ambientes mais inóspitos do planeta.",
+      "Esses seres são responsáveis pela decomposição de matéria orgânica, transformando restos de plantas e animais em nutrientes que retornam ao solo. Sem eles, florestas e ecossistemas inteiros entrariam em colapso sob o acúmulo de matéria morta.",
+      "Mas o poder dos fungos vai muito além da reciclagem natural. Na medicina, eles deram origem a alguns dos maiores avanços da humanidade, como a penicilina — o primeiro antibiótico —, descoberta a partir do mofo Penicillium. Hoje, estudos buscam desenvolver fungos geneticamente modificados para combater bactérias resistentes e até doenças crônicas.",
+      "Na biotecnologia, algumas espécies vêm sendo usadas para produzir biocombustíveis e materiais sustentáveis. Há fungos que digerem plástico e até petróleo, mostrando um potencial gigantesco no combate à poluição e à crise ambiental.",
+      "No entanto, nem todos os fungos são benéficos. Alguns podem causar infecções graves e produzir toxinas perigosas, lembrando que o poder da natureza também exige respeito e cuidado. O equilíbrio entre o uso e o controle dessas espécies é essencial para evitar desequilíbrios ecológicos.",
+      "Os fungos continuam sendo um campo de pesquisa vasto e misterioso. Para alguns cientistas, entender suas redes subterrâneas e sua comunicação com as plantas pode ser a chave para o futuro da agricultura e da restauração ambiental.",
+      "Em um mundo cada vez mais afetado por mudanças climáticas e desastres ecológicos, talvez os fungos sejam — de forma silenciosa e invisível — um dos maiores aliados da humanidade."
+    ],
+    "dataPublicacao": "15/11/2025",
+    "views": 8,
+    "likes": 0,
+    "categoria": "Geral",
+    "comentarios": [
+      {
+        "id": 1,
+        "autor": "Visitante",
+        "texto": "ewqeq",
+        "data": "15/11/2025 18:06:14"
+      },
+      {
+        "id": 2,
+        "autor": "Visitante",
+        "texto": "ewqeq",
+        "data": "15/11/2025 18:06:16"
+      },
+      {
+        "id": 3,
+        "autor": "Visitante",
+        "texto": "peido",
+        "data": "15/11/2025 18:08:17"
+      },
+      {
+        "id": 4,
+        "autor": "Visitante",
+        "texto": "vaza",
+        "data": "15/11/2025 18:08:23"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "titulo": "New Sleeper Train to Run from Paris to Berlin",
+    "conteudo": [
+      "Overnight sleeper trains have become increasingly popular across Europe as a more environmentally-friendly way to explore the continent. However, earlier this year, Austrian train operator ÖBB said it would be ending its popular Nightjet sleeper service between Paris and Berlin in December 2025."
+    ],
+    "dataPublicacao": "15/11/2025",
+    "views": 2,
+    "likes": 0,
+    "categoria": "Tecnologia",
+    "comentarios": []
+  },
+  {
+    "id": 5,
+    "titulo": "Brasil tem histórico de tornados, e o que destruiu cidade no Paraná pode ser a mais forte já registrado",
+    "conteudo": [
+      "O tornado que desvatou a cidade da região sul Praná nesta sexta-feira(7)- e atingiu o indice EF# em um escala que vai até 5 - p"
+    ],
+    "dataPublicacao": "09/11/2025",
+    "views": 6,
+    "likes": 0,
+    "categoria": "Tecnologia",
+    "comentarios": []
+  },
+  {
+    "id": 6,
+    "titulo": "Astronomia",
+    "conteudo": [
+      "a ciência que estuda os corpos celestes (estrelas, planetas, galáxias, etc.) e os fenômenos que ocorrem fora da atmosfera terrestre, como o movimento de objetos no espaço, a origem e evolução do universo. É uma das ciências mais antigas da humanidade, utilizada por civilizações antigas para agricultura e navegação, e hoje é dividida em astronomia observacional e teórica. "
+    ],
+    "dataPublicacao": "15/11/2025",
+    "views": 0,
+    "likes": 0,
+    "categoria": "Ciência",
+    "comentarios": []
   }
 ]

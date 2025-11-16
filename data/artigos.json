@@ -71,27 +71,16 @@
       {
         "id": 1,
         "autor": "Visitante",
-        "texto": "ewqeq",
+        "texto": "Que maneiro esse artigo",
         "data": "15/11/2025 18:06:14"
       },
       {
         "id": 2,
         "autor": "Visitante",
-        "texto": "ewqeq",
+        "texto": "Gostei bastante do artigo",
         "data": "15/11/2025 18:06:16"
-      },
-      {
-        "id": 3,
-        "autor": "Visitante",
-        "texto": "peido",
-        "data": "15/11/2025 18:08:17"
-      },
-      {
-        "id": 4,
-        "autor": "Visitante",
-        "texto": "vaza",
-        "data": "15/11/2025 18:08:23"
       }
+     
     ]
   },
   {
